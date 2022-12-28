@@ -1,0 +1,12 @@
+co.appbrewery.dicee_flutter.app-jetified-annotation-experimental-1.1.0-0 C:\Users\Micheal Adeniran\.gradle\caches\transforms-3\2d18fa5c9886ea665ab8eef7863b6789\transformed\jetified-annotation-experimental-1.1.0\res
+co.appbrewery.dicee_flutter.app-jetified-window-java-1.0.0-beta04-1 C:\Users\Micheal Adeniran\.gradle\caches\transforms-3\2db23dacda0ebfb470d001414b4862f3\transformed\jetified-window-java-1.0.0-beta04\res
+co.appbrewery.dicee_flutter.app-core-1.6.0-2 C:\Users\Micheal Adeniran\.gradle\caches\transforms-3\82726261a04049c462ad26c9439a41ef\transformed\core-1.6.0\res
+co.appbrewery.dicee_flutter.app-jetified-window-1.0.0-beta04-3 C:\Users\Micheal Adeniran\.gradle\caches\transforms-3\f4aeab3857ca320372f0b3ac68021ecb\transformed\jetified-window-1.0.0-beta04\res
+co.appbrewery.dicee_flutter.app-debug-4 C:\Users\Micheal Adeniran\Documents\dicee-flutter\android\app\src\debug\res
+co.appbrewery.dicee_flutter.app-main-5 C:\Users\Micheal Adeniran\Documents\dicee-flutter\android\app\src\main\res
+co.appbrewery.dicee_flutter.app-pngs-6 C:\Users\Micheal Adeniran\Documents\dicee-flutter\build\app\generated\res\pngs\debug
+co.appbrewery.dicee_flutter.app-resValues-7 C:\Users\Micheal Adeniran\Documents\dicee-flutter\build\app\generated\res\resValues\debug
+co.appbrewery.dicee_flutter.app-rs-8 C:\Users\Micheal Adeniran\Documents\dicee-flutter\build\app\generated\res\rs\debug
+co.appbrewery.dicee_flutter.app-mergeDebugResources-9 C:\Users\Micheal Adeniran\Documents\dicee-flutter\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+co.appbrewery.dicee_flutter.app-mergeDebugResources-10 C:\Users\Micheal Adeniran\Documents\dicee-flutter\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+co.appbrewery.dicee_flutter.app-merged_res-11 C:\Users\Micheal Adeniran\Documents\dicee-flutter\build\app\intermediates\merged_res\debug
